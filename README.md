@@ -58,7 +58,7 @@ EDA_IA_PRODUCTIVIDAD_ESPANA/
 ## Limitaciones
 
 - Las definiciones de indicadores y la clasificación sectorial pueden variar entre años; concretamente **2026 utiliza una clasificación sectorial diferente**.
-- Las notas específicas `(2)` y `(3)` de determinados indicadores de tecnologías, aplicaciones y barreras no se han verificado; sus porcentajes no deben extrapolarse a todas las empresas ni compararse directamente entre bloques.
+- Algunos indicadores del INE utilizan diferentes poblaciones de referencia. Por ello, los porcentajes de tecnologías, aplicaciones y barreras de adopción deben interpretarse por separado y no necesariamente representan al conjunto de empresas españolas. Queda pendiente verificar las notas específicas de las tablas originales. Es decir, se debe prestar atención a los gráficos de H4 ya que falta información sobre qué significa cada porcentaje y a qué empresas representa.
 - Las series de adopción del INE y de Eurostat no son idénticas; la comparación internacional utiliza exclusivamente Eurostat.
 - Los datos de adopción y productividad son agregados y tienen coberturas poblacionales diferentes.
 - El análisis de productividad se basa en cinco sectores y un año; es exploratorio y **no permite inferir causalidad**.
